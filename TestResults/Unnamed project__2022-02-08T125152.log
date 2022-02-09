@@ -1,0 +1,258 @@
+﻿2022-02-08T12:51:52.0825164+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2022-02-08T12:51:52.0827215+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2022-02-08T12:51:52.0827262+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2022-02-08T12:51:52.0850147+01:00;VSTestExecutionThread;Info;Current UserName: 'driss', MachineName: 'DESKTOP-OT82LQP'
+2022-02-08T12:51:52.1126216+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowProjectVote.dll
+2022-02-08T12:51:52.1128193+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\driss\source\repos\TP2_vote\TestResults" (default)
+2022-02-08T12:51:52.1128885+01:00;VSTestExecutionThread;Info;Profile: 
+2022-02-08T12:51:52.1539300+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\driss\source\repos\TP2_vote\TestResults\Unnamed project__2022-02-08T125152.log
+2022-02-08T12:51:52.1584579+01:00;Thread#12;Info;Checking activation
+2022-02-08T12:51:52.2581707+01:00;Thread#12;Info;Activated.
+2022-02-08T12:51:52.2584249+01:00;Thread#12;Info;Activation check completed
+2022-02-08T12:51:52.2585258+01:00;Thread#12;Info;Starting test run
+2022-02-08T12:51:52.3482132+01:00;Thread#12;Info;Discovering target: Default
+2022-02-08T12:51:52.3484127+01:00;Thread#12;Info;Discovering tests from assembly: C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowProjectVote.dll
+2022-02-08T12:51:52.4360861+01:00;Thread#12;Info;Discovered tests from assembly: C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowProjectVote.dll
+2022-02-08T12:51:52.4375744+01:00:Test Suite Dump
+2022-02-08T12:51:52.4394721+01:00:#0: Unnamed project/ - 
+2022-02-08T12:51:52.4394955+01:00:#1: Default - 
+2022-02-08T12:51:52.4394987+01:00:#2: SpecFlowProjectVote - 
+2022-02-08T12:51:52.4395013+01:00:#3: SpecFlowProjetVote - 
+2022-02-08T12:51:52.4406335+01:00:#8: On prend en compte les votes blanc au 2eme tours si il est >35% - TestAssembly:SpecFlowProjectVote/Feature:SpecFlowProjetVote/Scenario:On+prend+en+compte+les+votes+blanc+au+2eme+tours+si+il+est+%3e35%25
+2022-02-08T12:51:52.4406870+01:00:End: Test Suite Dump
+2022-02-08T12:51:52.4602644+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-02-08T12:51:52.4625640+01:00:Thread#:Scheduler: testitem #8 from normal test queue 
+2022-02-08T12:51:52.4626179+01:00:Thread#0:Scheduler: considering testitem #8 for thread 0
+2022-02-08T12:51:52.4657748+01:00:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2022-02-08T12:51:52.4657870+01:00:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2022-02-08T12:51:52.4657897+01:00:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2022-02-08T12:51:52.4657924+01:00:Thread#0:Scheduler: using testitem #8 for thread 0
+2022-02-08T12:51:52.4664326+01:00:Thread#0:Scheduler: Test #8 is scheduled for thread
+2022-02-08T12:51:52.4675504+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2022-02-08T12:51:52.4697124+01:00:Thread #0: creating new test thread executor for SpecFlowProjectVote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2022-02-08T12:51:52.4721133+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-02-08T12:51:52.4723074+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2022-02-08T12:51:52.4742314+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2022-02-08T12:51:52.4757676+01:00:starting Out Of Process Executor
+2022-02-08T12:51:52.4773425+01:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-02-08T12:51:52.4799770+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2022-02-08T12:51:52.4799905+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2022-02-08T12:51:52.4811373+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:52.4814666+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-02-08T12:51:52.4815462+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2022-02-08T12:51:52.4815923+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:52.4817872+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-02-08T12:51:52.4823271+01:00:Tfm: netcoreapp3.1
+2022-02-08T12:51:52.4823394+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-02-08T12:51:52.4823473+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2022-02-08T12:51:52.4824174+01:00:[AssemblyCache] Found file 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2022-02-08T12:51:52.4828147+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2022-02-08T12:51:52.4834071+01:00:Starting callback TCP Rpc server
+2022-02-08T12:51:52.4993000+01:00:Asynchronously starting background TCP Rpc Server on port 32768
+2022-02-08T12:51:52.4993459+01:00:Started callback TCP Rpc server on port 32768
+2022-02-08T12:51:52.4993496+01:00:Starting logger TCP Rpc server
+2022-02-08T12:51:52.5013826+01:00:Asynchronously starting background TCP Rpc Server on port 32769
+2022-02-08T12:51:52.5014105+01:00:Started logger TCP Rpc server on port 32769
+2022-02-08T12:51:52.5851382+01:00:Executing test executor at 'dotnet' 'exec "C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 23608 --uniqueId "2022-02-08T125152" --outputFolder "C:\Users\driss\source\repos\TP2_vote\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:52.5956122+01:00:Executor with PID 17688 has been started successfully.
+2022-02-08T12:51:52.6003234+01:00:Out of Process Executor 17688 started
+2022-02-08T12:51:52.6003487+01:00:Waiting for endpoint
+2022-02-08T12:51:52.9621378+01:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2022-02-08T12:51:52.9622374+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2022-02-08T12:51:52.9622419+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2022-02-08T12:51:52.9622498+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:52.9622522+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2022-02-08T12:51:52.9623140+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2022-02-08T12:51:52.9623585+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:52.9623675+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-02-08T12:51:52.9624447+01:00:Tfm: netcoreapp3.1
+2022-02-08T12:51:52.9624486+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-02-08T12:51:52.9624505+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2022-02-08T12:51:52.9625129+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2022-02-08T12:51:52.9625681+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-02-08T12:51:52.9697893+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.22'
+2022-02-08T12:51:52.9698087+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.22\StreamJsonRpc.resources.dll'
+2022-02-08T12:51:52.9699095+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.22\StreamJsonRpc.resources.exe'
+2022-02-08T12:51:52.9699674+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.22'
+2022-02-08T12:51:52.9701730+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-02-08T12:51:52.9701821+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\StreamJsonRpc.resources.dll'
+2022-02-08T12:51:52.9702291+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\StreamJsonRpc.resources.exe'
+2022-02-08T12:51:52.9702673+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-02-08T12:51:52.9703945+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.22'
+2022-02-08T12:51:52.9704020+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.22\StreamJsonRpc.resources.dll'
+2022-02-08T12:51:52.9704535+01:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.22\StreamJsonRpc.resources.exe'
+2022-02-08T12:51:52.9704912+01:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.22'
+2022-02-08T12:51:52.9712882+01:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2022-02-08T12:51:52.9719747+01:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-02-08T12:51:52.9719854+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2022-02-08T12:51:52.9719882+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2022-02-08T12:51:52.9719989+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:52.9720050+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-02-08T12:51:52.9720459+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2022-02-08T12:51:52.9720835+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:52.9720873+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-02-08T12:51:52.9721038+01:00:Tfm: netcoreapp3.1
+2022-02-08T12:51:52.9721069+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-02-08T12:51:52.9721145+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2022-02-08T12:51:52.9721744+01:00:[AssemblyCache] Found file 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2022-02-08T12:51:52.9726580+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2022-02-08T12:51:53.1999690+01:00:Remote executor port received: 32770
+2022-02-08T12:51:53.2003315+01:00:Creating executor TCP client on port 32770
+2022-02-08T12:51:53.2007563+01:00:Created executor TCP client on port 32770
+2022-02-08T12:51:53.2007673+01:00:Connecting to remote executor TCP server
+2022-02-08T12:51:53.2017006+01:00:Connected remote executor TCP server
+2022-02-08T12:51:53.2018538+01:00:trying to connect to Out of Process Executor the 1 attempt
+2022-02-08T12:51:53.2018663+01:00:Connection to Out of Process Executor established in the 1 attempt
+2022-02-08T12:51:53.3517443+01:00:2022-02-08T12:51:53.3505586+01:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowProjectVote.dll on test thread #0
+2022-02-08T12:51:53.3563865+01:00:Endpoint 17688 started
+2022-02-08T12:51:53.3799031+01:00:2022-02-08T12:51:53.3793336+01:00:OutOfProcessTestAssemblyExecutor: running tests...
+2022-02-08T12:51:53.5046495+01:00:2022-02-08T12:51:53.5042302+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-02-08T12:51:53.5079028+01:00:2022-02-08T12:51:53.5075136+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2022-02-08T12:51:53.5120360+01:00:2022-02-08T12:51:53.5116492+01:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\driss\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2022-02-08T12:51:53.6367162+01:00:2022-02-08T12:51:53.6353306+01:00:Thread#0:T:-> Loading plugin C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowProjectVote.dll
+2022-02-08T12:51:53.6396292+01:00:2022-02-08T12:51:53.6383951+01:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-02-08T12:51:53.6416735+01:00:2022-02-08T12:51:53.6405722+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2022-02-08T12:51:53.6436461+01:00:2022-02-08T12:51:53.6426338+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\driss\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2022-02-08T12:51:53.6912724+01:00:2022-02-08T12:51:53.6901272+01:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2022-02-08T12:51:53.6927432+01:00:2022-02-08T12:51:53.6919499+01:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2022-02-08T12:51:53.6941161+01:00:2022-02-08T12:51:53.6934281+01:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\driss\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2022-02-08T12:51:53.7030448+01:00:2022-02-08T12:51:53.7022248+01:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowProjectVote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2022-02-08T12:51:53.7043910+01:00:2022-02-08T12:51:53.7037166+01:00:Thread#0:T:-> Loading plugin C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2022-02-08T12:51:53.7069022+01:00:2022-02-08T12:51:53.7065987+01:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2022-02-08T12:51:53.7074846+01:00:2022-02-08T12:51:53.7071880+01:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2022-02-08T12:51:53.7081860+01:00:2022-02-08T12:51:53.7079136+01:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\driss\.nuget\packages\specflow.plus.livingdocplugin\3.9.57\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2022-02-08T12:51:53.7105460+01:00:2022-02-08T12:51:53.7102358+01:00:Thread#0:T:-> Loading plugin C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2022-02-08T12:51:53.7195111+01:00:2022-02-08T12:51:53.7190876+01:00:Thread#0:T:-> Using default config
+2022-02-08T12:51:53.7301150+01:00:2022-02-08T12:51:53.7297443+01:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2022-02-08T12:51:53.7307348+01:00:2022-02-08T12:51:53.7304344+01:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2022-02-08T12:51:53.7316791+01:00:2022-02-08T12:51:53.7311876+01:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\driss\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2022-02-08T12:51:53.7332786+01:00:2022-02-08T12:51:53.7329680+01:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2022-02-08T12:51:53.7337927+01:00:2022-02-08T12:51:53.7335426+01:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2022-02-08T12:51:53.7345398+01:00:2022-02-08T12:51:53.7342277+01:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\driss\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2022-02-08T12:51:53.7425581+01:00:2022-02-08T12:51:53.7422326+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2022-02-08T12:51:53.7431199+01:00:2022-02-08T12:51:53.7428332+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2022-02-08T12:51:53.7440582+01:00:2022-02-08T12:51:53.7437137+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\driss\.nuget\packages\microsoft.testplatform.objectmodel\17.0.0\lib\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2022-02-08T12:51:53.7777694+01:00:2022-02-08T12:51:53.7773306+01:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2022-02-08T12:51:53.7784024+01:00:2022-02-08T12:51:53.7781236+01:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2022-02-08T12:51:53.7791155+01:00:2022-02-08T12:51:53.7788076+01:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\driss\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2022-02-08T12:51:53.8660407+01:00:Thread#0: Test #8/0 is started on thread #0
+2022-02-08T12:51:53.8830975+01:00:2022-02-08T12:51:53.8826783+01:00:Thread#0:B:Given Macron have 140 vote
+2022-02-08T12:51:53.8993224+01:00:2022-02-08T12:51:53.8989221+01:00:Assembly resolving TP2_vote, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2022-02-08T12:51:53.8998392+01:00:2022-02-08T12:51:53.8995982+01:00:[AssemblyCache] Trying to resolve 'TP2_vote' from .deps.json file
+2022-02-08T12:51:53.9008589+01:00:2022-02-08T12:51:53.9005917+01:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'TP2_vote', found in dependency map, but unable to resolve a path in ['TP2_vote.dll']
+2022-02-08T12:51:53.9012801+01:00:2022-02-08T12:51:53.9010546+01:00:[AssemblyCache] Could not resolve 'TP2_vote' from .deps.json
+2022-02-08T12:51:53.9030731+01:00:2022-02-08T12:51:53.9026892+01:00:[AssemblyCache] Trying to resolve 'TP2_vote' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:53.9045492+01:00:2022-02-08T12:51:53.9042432+01:00:[AssemblyCache] Trying to resolve 'TP2_vote' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\TP2_vote.dll'
+2022-02-08T12:51:53.9051863+01:00:2022-02-08T12:51:53.9048905+01:00:[AssemblyCache] Found file 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\TP2_vote.dll' for assembly 'TP2_vote'
+2022-02-08T12:51:53.9065136+01:00:2022-02-08T12:51:53.9061538+01:00:[AssemblyCache] Resolved 'TP2_vote' to C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\TP2_vote.dll
+2022-02-08T12:51:53.9128541+01:00:2022-02-08T12:51:53.9124428+01:00:Thread#0:T:done: SpecFlowCandidatSteps.GivenSwanHaveVote("Macron", 140) (0,0s)
+2022-02-08T12:51:53.9150070+01:00:2022-02-08T12:51:53.9146666+01:00:Thread#0:B:And Le Pen have 40 vote
+2022-02-08T12:51:53.9159275+01:00:2022-02-08T12:51:53.9156426+01:00:Thread#0:T:done: SpecFlowCandidatSteps.GivenSwanHaveVote("Le Pen", 40) (0,0s)
+2022-02-08T12:51:53.9168380+01:00:2022-02-08T12:51:53.9164630+01:00:Thread#0:B:And Mélanchon have 20 vote
+2022-02-08T12:51:53.9175386+01:00:2022-02-08T12:51:53.9172508+01:00:Thread#0:T:done: SpecFlowCandidatSteps.GivenSwanHaveVote("Mélanchon", 20) (0,0s)
+2022-02-08T12:51:53.9180402+01:00:2022-02-08T12:51:53.9177941+01:00:Thread#0:B:And Zemmour have 120 vote
+2022-02-08T12:51:53.9187257+01:00:2022-02-08T12:51:53.9184377+01:00:Thread#0:T:done: SpecFlowCandidatSteps.GivenSwanHaveVote("Zemmour", 120) (0,0s)
+2022-02-08T12:51:53.9193277+01:00:2022-02-08T12:51:53.9190498+01:00:Thread#0:B:And VoteBlanc have 60 vote
+2022-02-08T12:51:53.9199545+01:00:2022-02-08T12:51:53.9196767+01:00:Thread#0:T:done: SpecFlowCandidatSteps.GivenSwanHaveVote("VoteBlanc", 60) (0,0s)
+2022-02-08T12:51:53.9207359+01:00:2022-02-08T12:51:53.9204603+01:00:Thread#0:B:Then Macron have à score of 35%
+2022-02-08T12:51:53.9230665+01:00:2022-02-08T12:51:53.9227856+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenSwanHaveAScoreOf("Macron", 35) (0,0s)
+2022-02-08T12:51:53.9236566+01:00:2022-02-08T12:51:53.9233770+01:00:Thread#0:B:And Le Pen have à score of 10%
+2022-02-08T12:51:53.9243437+01:00:2022-02-08T12:51:53.9240348+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenSwanHaveAScoreOf("Le Pen", 10) (0,0s)
+2022-02-08T12:51:53.9250442+01:00:2022-02-08T12:51:53.9246701+01:00:Thread#0:B:And Mélanchon have à score of 5%
+2022-02-08T12:51:53.9257487+01:00:2022-02-08T12:51:53.9254217+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenSwanHaveAScoreOf("Mélanchon", 5) (0,0s)
+2022-02-08T12:51:53.9262424+01:00:2022-02-08T12:51:53.9260450+01:00:Thread#0:B:And Zemmour have à score of 30%
+2022-02-08T12:51:53.9268468+01:00:2022-02-08T12:51:53.9266103+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenSwanHaveAScoreOf("Zemmour", 30) (0,0s)
+2022-02-08T12:51:53.9274137+01:00:2022-02-08T12:51:53.9271631+01:00:Thread#0:B:And VoteBlanc have à score of 15%
+2022-02-08T12:51:53.9280709+01:00:2022-02-08T12:51:53.9278004+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenSwanHaveAScoreOf("VoteBlanc", 15) (0,0s)
+2022-02-08T12:51:53.9288020+01:00:2022-02-08T12:51:53.9285415+01:00:Thread#0:B:When Score is equal or more than 50%
+2022-02-08T12:51:53.9300927+01:00:2022-02-08T12:51:53.9297663+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenScoreIsEqualOrMoreThan(50) (0,0s)
+2022-02-08T12:51:53.9306579+01:00:2022-02-08T12:51:53.9303670+01:00:Thread#0:B:And Score of VoteBlanc equal or more than 35%
+2022-02-08T12:51:53.9317204+01:00:2022-02-08T12:51:53.9314478+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenScoreOfVoteBlancEqualOrMoreThan(35) (0,0s)
+2022-02-08T12:51:53.9322991+01:00:2022-02-08T12:51:53.9320390+01:00:Thread#0:B:Then is to mutch VoteBlanc the election winner is cancel false
+2022-02-08T12:51:53.9342129+01:00:2022-02-08T12:51:53.9339310+01:00:Thread#0:T:done: SpecFlowCandidatSteps.IsThenToMutchVoteBlancTheElectionWinnerIsCancel(False) (0,0s)
+2022-02-08T12:51:53.9347111+01:00:2022-02-08T12:51:53.9344355+01:00:Thread#0:B:And winner is noone
+2022-02-08T12:51:53.9362990+01:00:2022-02-08T12:51:53.9360112+01:00:Thread#0:T:done: SpecFlowCandidatSteps.ThenWinnerIs("noone") (0,0s)
+2022-02-08T12:51:53.9368812+01:00:2022-02-08T12:51:53.9366083+01:00:Thread#0:B:When second turn with Macron and Zemmour
+2022-02-08T12:51:53.9410207+01:00:2022-02-08T12:51:53.9407263+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenSecondTurnWith("Macron", "Zemmour") (0,0s)
+2022-02-08T12:51:53.9416088+01:00:2022-02-08T12:51:53.9413647+01:00:Thread#0:B:Given Macron have 70 vote
+2022-02-08T12:51:53.9423947+01:00:2022-02-08T12:51:53.9420675+01:00:Thread#0:T:done: SpecFlowCandidatSteps.GivenSwanHaveVote("Macron", 70) (0,0s)
+2022-02-08T12:51:53.9429510+01:00:2022-02-08T12:51:53.9426462+01:00:Thread#0:B:And Zemmour have 50 vote
+2022-02-08T12:51:53.9435684+01:00:2022-02-08T12:51:53.9433421+01:00:Thread#0:T:done: SpecFlowCandidatSteps.GivenSwanHaveVote("Zemmour", 50) (0,0s)
+2022-02-08T12:51:53.9441639+01:00:2022-02-08T12:51:53.9438762+01:00:Thread#0:B:And VoteBlanc have 80 vote
+2022-02-08T12:51:53.9448074+01:00:2022-02-08T12:51:53.9445390+01:00:Thread#0:T:done: SpecFlowCandidatSteps.GivenSwanHaveVote("VoteBlanc", 80) (0,0s)
+2022-02-08T12:51:53.9530260+01:00:2022-02-08T12:51:53.9451328+01:00:Thread#0:B:Then Macron have à score of 35%
+2022-02-08T12:51:53.9539469+01:00:2022-02-08T12:51:53.9536693+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenSwanHaveAScoreOf("Macron", 35) (0,0s)
+2022-02-08T12:51:53.9544970+01:00:2022-02-08T12:51:53.9542564+01:00:Thread#0:B:And Zemmour have à score of 25%
+2022-02-08T12:51:53.9551395+01:00:2022-02-08T12:51:53.9548706+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenSwanHaveAScoreOf("Zemmour", 25) (0,0s)
+2022-02-08T12:51:53.9556986+01:00:2022-02-08T12:51:53.9554290+01:00:Thread#0:B:And VoteBlanc have à score of 40%
+2022-02-08T12:51:53.9563573+01:00:2022-02-08T12:51:53.9560840+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenSwanHaveAScoreOf("VoteBlanc", 40) (0,0s)
+2022-02-08T12:51:53.9570282+01:00:2022-02-08T12:51:53.9567482+01:00:Thread#0:B:When Score of VoteBlanc equal or more than 35%
+2022-02-08T12:51:53.9576801+01:00:2022-02-08T12:51:53.9574084+01:00:Thread#0:T:done: SpecFlowCandidatSteps.WhenScoreOfVoteBlancEqualOrMoreThan(35) (0,0s)
+2022-02-08T12:51:53.9582834+01:00:2022-02-08T12:51:53.9580084+01:00:Thread#0:B:Then scond turn winner is noone
+2022-02-08T12:51:53.9603628+01:00:2022-02-08T12:51:53.9601230+01:00:Thread#0:T:done: SpecFlowCandidatSteps.ThenScondTurnWinnerIs("noone") (0,0s)
+2022-02-08T12:51:53.9608493+01:00:2022-02-08T12:51:53.9605807+01:00:Thread#0:B:And is to mutch VoteBlanc the election winner is cancel true
+2022-02-08T12:51:53.9615479+01:00:2022-02-08T12:51:53.9612817+01:00:Thread#0:T:done: SpecFlowCandidatSteps.IsThenToMutchVoteBlancTheElectionWinnerIsCancel(True) (0,0s)
+2022-02-08T12:51:53.9704240+01:00:Thread#0:Scheduler: get next test for thread 0
+2022-02-08T12:51:53.9704721+01:00:Thread#:Scheduler: at the end of normal test queue
+2022-02-08T12:51:53.9704761+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2022-02-08T12:51:53.9704803+01:00:Thread#0:Scheduler: No more tests for thread
+2022-02-08T12:51:54.0226190+01:00:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 0,1555147 seconds
+2022-02-08T12:51:54.0328723+01:00:2022-02-08T12:51:54.0322307+01:00:Got Deinitialize Signal
+2022-02-08T12:51:54.0377499+01:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-02-08T12:51:54.0391564+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2022-02-08T12:51:54.0406477+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2022-02-08T12:51:54.0421990+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2022-02-08T12:51:54.0422228+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2022-02-08T12:51:54.0422322+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2022-02-08T12:51:54.0422404+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:54.0422432+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-02-08T12:51:54.0423043+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-02-08T12:51:54.0423561+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1'
+2022-02-08T12:51:54.0423664+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2022-02-08T12:51:54.0424324+01:00:Tfm: netcoreapp3.1
+2022-02-08T12:51:54.0424386+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-02-08T12:51:54.0424409+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2022-02-08T12:51:54.0425042+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2022-02-08T12:51:54.0425588+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\driss\source\repos\TP2_vote\SpecFlowProjectVote\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2022-02-08T12:51:54.0432573+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.22'
+2022-02-08T12:51:54.0432706+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.22\System.Diagnostics.Process.resources.dll'
+2022-02-08T12:51:54.0433518+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.22\System.Diagnostics.Process.resources.exe'
+2022-02-08T12:51:54.0434077+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.22'
+2022-02-08T12:51:54.0435858+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-02-08T12:51:54.0435944+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\System.Diagnostics.Process.resources.dll'
+2022-02-08T12:51:54.0436413+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22\System.Diagnostics.Process.resources.exe'
+2022-02-08T12:51:54.0436841+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.22'
+2022-02-08T12:51:54.0438102+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.22'
+2022-02-08T12:51:54.0438181+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.22\System.Diagnostics.Process.resources.dll'
+2022-02-08T12:51:54.0438668+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.22\System.Diagnostics.Process.resources.exe'
+2022-02-08T12:51:54.0439115+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.22'
+2022-02-08T12:51:54.0442878+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2022-02-08T12:51:54.0511287+01:00:Thread#-1:Scheduler: get next test for thread -1
+2022-02-08T12:51:54.0511564+01:00:Thread#:Scheduler: at the end of normal test queue
+2022-02-08T12:51:54.0511597+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2022-02-08T12:51:54.0527678+01:00;Thread#12;Info;test run finished
+2022-02-08T12:51:54.0529194+01:00;Thread#12;Info;publishing test results
+2022-02-08T12:51:54.0530395+01:00;Thread#12;Info;Not publishing results.
+2022-02-08T12:51:54.0531043+01:00;Thread#12;Info;test results published
+2022-02-08T12:51:54.0531525+01:00;Thread#12;Info;generating reports
+2022-02-08T12:51:54.1331011+01:00;Thread#12;Info;Starting external report generation process
+2022-02-08T12:51:55.6851942+01:00;Thread#12;Info;Successfully generated reports.
+2022-02-08T12:51:55.6877016+01:00;Thread#12;Info;Successfully generated reports
+2022-02-08T12:51:55.6949291+01:00:Total: 1
+2022-02-08T12:51:55.6967363+01:00:Succeeded: 1
+2022-02-08T12:51:55.6970091+01:00:Ignored: 0
+2022-02-08T12:51:55.6972542+01:00:Pending: 0
+2022-02-08T12:51:55.6972634+01:00:Skipped: 0
+2022-02-08T12:51:55.6974869+01:00:Failed: 0
+2022-02-08T12:51:55.7036609+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2022-02-08T12:51:55.7037988+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\driss\source\repos\TP2_vote\TestResults\Unnamed project__2022-02-08T125152.html'
+========== End of log file ==========

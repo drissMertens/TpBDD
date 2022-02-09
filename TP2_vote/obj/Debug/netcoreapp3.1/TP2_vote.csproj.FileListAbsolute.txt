@@ -1,0 +1,9 @@
+C:\Users\driss\source\repos\TP2_vote\TP2_vote\bin\Debug\netcoreapp3.1\TP2_vote.deps.json
+C:\Users\driss\source\repos\TP2_vote\TP2_vote\bin\Debug\netcoreapp3.1\TP2_vote.dll
+C:\Users\driss\source\repos\TP2_vote\TP2_vote\bin\Debug\netcoreapp3.1\TP2_vote.pdb
+C:\Users\driss\source\repos\TP2_vote\TP2_vote\obj\Debug\netcoreapp3.1\TP2_vote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\driss\source\repos\TP2_vote\TP2_vote\obj\Debug\netcoreapp3.1\TP2_vote.AssemblyInfoInputs.cache
+C:\Users\driss\source\repos\TP2_vote\TP2_vote\obj\Debug\netcoreapp3.1\TP2_vote.AssemblyInfo.cs
+C:\Users\driss\source\repos\TP2_vote\TP2_vote\obj\Debug\netcoreapp3.1\TP2_vote.csproj.CoreCompileInputs.cache
+C:\Users\driss\source\repos\TP2_vote\TP2_vote\obj\Debug\netcoreapp3.1\TP2_vote.dll
+C:\Users\driss\source\repos\TP2_vote\TP2_vote\obj\Debug\netcoreapp3.1\TP2_vote.pdb

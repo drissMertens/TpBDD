@@ -1,0 +1,10 @@
+﻿2022-02-07T12:29:42.2805958+01:00;Thread#1;Info;Reading test run result from Json file "C:\Users\driss\AppData\Local\Temp\fbd0d01a-9837-4483-9a7e-fe1d49e8fb8e".
+2022-02-07T12:29:42.2825097+01:00;Thread#1;Info;Successfully read test run result from Json file "C:\Users\driss\AppData\Local\Temp\fbd0d01a-9837-4483-9a7e-fe1d49e8fb8e"
+2022-02-07T12:29:42.2825097+01:00;Thread#1;Info;Deserializing test run result
+2022-02-07T12:29:42.4101675+01:00;Thread#1;Info;Successfully deserialized test run result
+2022-02-07T12:29:42.4111657+01:00;Thread#1;Info;Loading test run result
+2022-02-07T12:29:42.4241725+01:00;Thread#1;Info;Successfully loaded test run result
+2022-02-07T12:29:42.4321105+01:00;Thread#1;Info;creating 1 report(s)
+2022-02-07T12:29:42.4321105+01:00;Thread#1;Info;generate Report using template ReportTemplate.cshtml
+2022-02-07T12:29:43.1880876+01:00;Thread#1;Info;Finished generating reports.
+========== End of log file ==========
